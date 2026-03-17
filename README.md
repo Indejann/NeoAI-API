@@ -1,2 +1,2 @@
 # NeoAI-API
-NeoAI API reverse engineed wrapper
+This is a reverse engineed wrapper for [neobrowser's](https://neobrowser.ai/) AI
