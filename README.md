@@ -14,3 +14,5 @@ response = requests.post('http://localhost:5001/api/chat', json={
     'message': 'Hello :)',
 })
 print(response.json())
+```
+https://ai.kzip.org/
