@@ -16,3 +16,8 @@ response = requests.post('http://localhost:5001/api/chat', json={
 print(response.json())
 ```
 https://ai.kzip.org/
+# requirements
+```python
+pip install flask curl_cffi
+```
+
